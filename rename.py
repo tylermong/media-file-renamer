@@ -2,7 +2,7 @@ import os
 import datetime
 from pymediainfo import MediaInfo
 
-# Folder containing files- **filename_YYYYMMDD**: `examplefilename_20230201`
+# Folder containing files
 folder_path = r"C:\path\to\your\files"  # Change to your folder
 
 # Naming convention menu
